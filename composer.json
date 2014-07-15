@@ -1,0 +1,16 @@
+{
+    "name": "phpcr/phpcr-283-proc",
+    "description": "Downloads and converts the JCR-283 spec to Restructured Text format",
+    "require": {
+        "symfony/filesystem": "2.5.2",
+        "symfony/finder": "2.5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Leech",
+            "email": "daniel@dantleech.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
